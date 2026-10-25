@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="slimeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80" />
+      <stop offset="50%" stop-color="#22c55e" />
+      <stop offset="100%" stop-color="#15803d" />
+    </linearGradient>
+  </defs>
+  <!-- Slime Body -->
+  <path d="M12 42C12 28 22 14 32 14C42 14 52 28 52 42C52 52 44 54 32 54C20 54 12 52 12 42Z" fill="url(#slimeGrad)" />
+  <!-- Gloss Highlight -->
+  <ellipse cx="26" cy="24" rx="6" ry="3" fill="#ffffff" opacity="0.6" transform="rotate(-20 26 24)" />
+  <!-- Cute Eyes -->
+  <circle cx="27" cy="36" r="3.5" fill="#0f172a" />
+  <circle cx="39" cy="36" r="3.5" fill="#0f172a" />
+  <!-- Eye Sparkles -->
+  <circle cx="28" cy="35" r="1.2" fill="#ffffff" />
+  <circle cx="40" cy="35" r="1.2" fill="#ffffff" />
+  <!-- Smile -->
+  <path d="M30 42Q33 45 36 42" stroke="#0f172a" stroke-width="2" stroke-linecap="round" fill="none" />
+  <!-- Unity Letter Badge -->
+  <circle cx="50" cy="48" r="9" fill="#0f172a" />
+  <text x="50" y="52" font-size="11" font-weight="900" fill="#86efac" font-family="monospace" text-anchor="middle">U</text>
+</svg>

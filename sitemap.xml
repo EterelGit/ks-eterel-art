@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://example.com/</loc>
+<loc>https://ks-assets.eterel.art/</loc>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
 <url>
-<loc>https://example.com/asset/bobabu-speech-generator/</loc>
-<lastmod>2026-10-26T02:58:04.299Z</lastmod>
+<loc>https://ks-assets.eterel.art/asset/bobabu-speech-generator/</loc>
+<lastmod>2026-10-26T11:58:33.760Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://example.com/asset/tween-sequencer-animations-ks/</loc>
-<lastmod>2026-10-25T22:48:48.845Z</lastmod>
+<loc>https://ks-assets.eterel.art/asset/tween-sequencer-animations-ks/</loc>
+<lastmod>2026-10-26T11:58:26.120Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>

@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://ks-assets.eterel.art/sitemap.xml

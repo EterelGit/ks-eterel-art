@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+2:I[3754,["467","static/chunks/467-fa972514f9c76bc9.js","177","static/chunks/app/layout-8eebef2918df554c.js"],"default"]
+3:I[63,["467","static/chunks/467-fa972514f9c76bc9.js","177","static/chunks/app/layout-8eebef2918df554c.js"],"default"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+6:I[1544,["467","static/chunks/467-fa972514f9c76bc9.js","177","static/chunks/app/layout-8eebef2918df554c.js"],"default"]
+8:I[4431,[],"OutletBoundary"]
+a:I[5278,[],"AsyncMetadataOutlet"]
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+11:I[7150,[],""]
+:HL["/_next/static/css/84a78e52bb4043fa.css","style"]
+0:{"P":null,"b":"F8P8A0q9hzAiCLi2B1gQ_","p":"","c":["","asset","long-trip-background-shaders",""],"i":false,"f":[[["",{"children":["asset",{"children":[["id","long-trip-background-shaders","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/84a78e52bb4043fa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"slime","children":["$","body",null,{"className":"relative min-h-screen text-slate-900 antialiased flex flex-col justify-between","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"className":"relative z-20 flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":["asset",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","long-trip-background-shaders","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:I[9665,["467","static/chunks/467-fa972514f9c76bc9.js","325","static/chunks/app/asset/%5Bid%5D/page-e1c1f7ac9c1f7c0c.js"],"default"]
+13:Tabe,**Long Trip — turn your background into a journey.**
+
+Create flowing neon tunnels, cosmic landscapes, connected light networks and hypnotic geometric patterns with LongTrip Background Shaders for Unity URP.
+
+Explore 83 ready-to-use material presets across 6 specialized shader engines. Use them as a starting point, customize their appearance and motion, and build animated backgrounds for menus, sci-fi environments, portals, arcade games and stylized visual experiences.
+
+**Procedural visuals. No texture assets required.**
+
+LongTrip generates its patterns directly in shaders, from geometric frames and glowing grids to nebula clouds, crystal structures and retro pixel effects. Adjust the materials to create variations without preparing textures or video loops.
+
+**Six engines, a wide range of styles**
+
+• **Master:** geometric tunnels, perspective corridors, honeycomb patterns, hyperspace streaks and raymarched structures.
+• **Tunnels Plus:** cloud vortices, architectural passages, laser corridors, jewel portals and flowing ribbon tunnels.
+• **Plexus & Lines:** connected constellations, wireframe terrain, optical fibers, circuit trails and neon beams.
+• **Grid & Blocks:** animated tiles, building blocks, mazes, mosaics and kinetic geometric patterns.
+• **Cosmic & Organic:** nebulae, crystal shards, sphere swarms, neural networks and black-hole visuals.
+• **Pixel Art:** crisp retro tunnels, arcade corridors, pixel portals, kaleidoscopes and clocks.
+
+**Shape the look and motion**
+
+Customize HDR colors, palette cycling, glow, geometry density, line thickness and depth layers. Control animation speed, rotation, scrolling, zoom and pattern position, with additional settings for individual effects.
+
+Use custom time input to synchronize materials or drive their animation from your own scripts.
+
+**Layer particles and transitions**
+
+Add procedural starfields, radial sparks or particle waves through the optional overlay module. Create iris, spiral and hex-grid transitions with adjustable progress and glowing edges.
+
+Optional finishing effects include chromatic aberration, vignette and CRT scanlines.
+
+**Preview, explore and customize**
+
+Browse presets using the included Remote Control Panel and demo showcase. Switch categories, adjust materials, save custom defaults and hide the showcase HUD for a clean view.
+
+Apply materials to quads, planes or UV-mapped meshes to bring the effects into your scenes.
+
+**Built for Unity URP**
+
+Includes 83 material presets, 6 shader engines, an editor control panel, a demo showcase and a user manual.
+
+Effect complexity varies: layered, volumetric and raymarched presets require more GPU work. Choose presets and settings to suit your target hardware and rendering resolution.14:T700,- **Render pipeline:** Universal Render Pipeline (URP). Built-in Render Pipeline and HDRP are not supported.
+- **Unity compatibility:** Unity 2022.3 LTS and Unity 6, with URP 14–17.
+- **Included content:** 6 procedural shaders and 83 material presets across geometric, tunnel, plexus, grid, cosmic and pixel-art categories.
+- **Texture requirements:** Visual patterns are generated procedurally; no texture assets are required.
+- **Rendering:** Single-pass shaders with SRP Batcher-compatible material constant buffers. GPU cost depends on the selected effect, settings and rendering resolution.
+- **Material controls:** Animation speed, custom time, zoom, aspect correction, position, rotation, scrolling, geometry density, depth layers and effect-specific parameters.
+- **Color controls:** HDR background, primary, secondary and accent colors; palette modes, color cycling, glow and contrast.
+- **Particle overlays:** Optional procedural wave particles, starfields and radial sparks.
+- **Transitions:** Iris portal, spiral vortex and hex-grid dissolve, with progress and edge controls.
+- **Optional post-effects:** Chromatic aberration, vignette and CRT scanlines.
+- **Pixel-art controls:** Virtual resolution, quantized line widths and Bayer dithering.
+- **Usage:** Materials can be applied to quads, planes and UV-mapped meshes.
+- **Scripting:** Standard Unity material properties can be controlled through C#. Custom time input supports externally driven animation.
+- **Editor tools:** Remote Control Panel, preset browser, custom material defaults and demo showcase with a toggleable HUD.
+- **Performance:** Volumetric, layered and raymarched effects are more demanding. Validate presets and quality settings on your target hardware.
+- **Documentation:** English user manual included.7:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Long Trip Background Shaders\",\"description\":\"Create animated backgrounds, neon tunnels and cosmic visuals in Unity URP with 83 presets across 6 procedural shader engines. Customize colors, motion and geometry, then add particle overlays and transitions—all without texture assets.\",\"image\":\"https://ks-assets.eterel.art/uploads/longtrip-1280-1793495463566.png\",\"url\":\"https://ks-assets.eterel.art/asset/long-trip-background-shaders/\",\"category\":\"Unity Asset\",\"offers\":{\"@type\":\"Offer\",\"price\":\"19.00\",\"priceCurrency\":\"USD\",\"url\":\"https://assetstore.unity.com/packages/slug/424436\",\"availability\":\"https://schema.org/InStock\"}}"}}],["$","$L12",null,{"asset":{"id":"art.eterel.long-trip-shaders","slug":"long-trip-background-shaders","title":"Long Trip Background Shaders","shortDescription":"Create animated backgrounds, neon tunnels and cosmic visuals in Unity URP with 83 presets across 6 procedural shader engines. Customize colors, motion and geometry, then add particle overlays and transitions—all without texture assets.","price":19,"unityStoreUrl":"https://assetstore.unity.com/packages/slug/424436","primaryThumbnailUrl":"/uploads/longtrip-1280-1793495463566.png","media":[{"id":"media-1793495583219","type":"image","url":"/uploads/base-s1-1793495583216.png","title":"base_s1.png"},{"id":"media-1793495589959","type":"image","url":"/uploads/blocks-1793495589955.png","title":"Blocks.png"},{"id":"media-1793495597638","type":"image","url":"/uploads/tunnels-1793495597634.png","title":"Tunnels.png"},{"id":"media-1793495602877","type":"image","url":"/uploads/lines-1793495602874.png","title":"Lines.png"},{"id":"media-1793495607422","type":"image","url":"/uploads/cosmi3d-1793495607418.png","title":"Cosmi3d.png"},{"id":"media-1793495611143","type":"image","url":"/uploads/pixelart-1793495611141.png","title":"PixelArt.png"}],"specs":{"fileSize":"4.1 MB","latestVersion":"1.0.0","latestReleaseDate":"Nov 1, 2026","originalUnityVersion":"6003.2.27"},"targetAudience":["Animator","Tech-Animator","VFX Artist"],"tags":["Shader","VFX","Background","Full Screen"],"description":"$13","technicalDetails":"$14","createdAt":"2026-11-01T01:13:35.046Z","updatedAt":"2026-11-01T01:53:44.157Z"}}]]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+15:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Long Trip Background Shaders — Kindly Slime Assets"}],["$","meta","1",{"name":"description","content":"Create animated backgrounds, neon tunnels and cosmic visuals in Unity URP with 83 presets across 6 procedural shader engines. Customize colors, motion and geometry, then add particle overlays and transitions—all without texture assets."}],["$","link","2",{"rel":"canonical","href":"https://ks-assets.eterel.art/asset/long-trip-background-shaders/"}],["$","meta","3",{"property":"og:title","content":"Long Trip Background Shaders — Kindly Slime Assets"}],["$","meta","4",{"property":"og:description","content":"Create animated backgrounds, neon tunnels and cosmic visuals in Unity URP with 83 presets across 6 procedural shader engines. Customize colors, motion and geometry, then add particle overlays and transitions—all without texture assets."}],["$","meta","5",{"property":"og:url","content":"https://ks-assets.eterel.art/asset/long-trip-background-shaders/"}],["$","meta","6",{"property":"og:image","content":"https://ks-assets.eterel.art/uploads/longtrip-1280-1793495463566.png"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Kindly Slime Assets - Unity Asset Store Catalog & VFX Tools"}],["$","meta","10",{"name":"twitter:description","content":"Curated collection of game development tools, procedural animation systems, elemental VFX shaders, and retro screen filters for Unity creators."}],["$","meta","11",{"name":"twitter:image","content":"https://ks-assets.eterel.art/uploads/longtrip-1280-1793495463566.png"}],["$","link","12",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","13",{"rel":"icon","href":"/uploads/favicon-1792960924806.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}],["$","link","15",{"rel":"apple-touch-icon","href":"/uploads/favicon-1792960924806.png"}],["$","$L15","16",{}]],"error":null,"digest":"$undefined"}
+10:"$b:metadata"

@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[3754,["467","static/chunks/467-fa972514f9c76bc9.js","177","static/chunks/app/layout-8eebef2918df554c.js"],"default"]
+3:I[63,["467","static/chunks/467-fa972514f9c76bc9.js","177","static/chunks/app/layout-8eebef2918df554c.js"],"default"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+6:I[1544,["467","static/chunks/467-fa972514f9c76bc9.js","177","static/chunks/app/layout-8eebef2918df554c.js"],"default"]
+8:I[4431,[],"OutletBoundary"]
+a:I[5278,[],"AsyncMetadataOutlet"]
+c:I[4431,[],"ViewportBoundary"]
+e:I[4431,[],"MetadataBoundary"]
+f:"$Sreact.suspense"
+11:I[7150,[],""]
+:HL["/_next/static/css/ccb2f82086b17821.css","style"]
+0:{"P":null,"b":"pNWhMmmrW41YCIJuUb--Z","p":"","c":["","asset","sequence-tmp-animator",""],"i":false,"f":[[["",{"children":["asset",{"children":[["id","sequence-tmp-animator","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ccb2f82086b17821.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"slime","children":["$","body",null,{"className":"relative min-h-screen text-slate-900 antialiased flex flex-col justify-between","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"className":"relative z-20 flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}]]}]}]]}],{"children":["asset",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","sequence-tmp-animator","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":["$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lc",null,{"children":"$Ld"}],null],["$","$Le",null,{"children":["$","div",null,{"hidden":true,"children":["$","$f",null,{"fallback":null,"children":"$L10"}]}]}]]}],false]],"m":"$undefined","G":["$11",[]],"s":false,"S":true}
+12:I[9665,["467","static/chunks/467-fa972514f9c76bc9.js","325","static/chunks/app/asset/%5Bid%5D/page-a4ecd3cb64cf832c.js"],"default"]
+13:T87d,**Sequence TMP Animator** brings expressive motion to TextMesh Pro UI and 3D text. Animate individual characters or entire strings, combine effects, and build multi-step sequences directly in the Unity Inspector.
+
+Create animated titles, dialogue reveals, notifications, menu labels and world-space text with curve-controlled motion and adjustable character timing.
+
+**Eight configurable effects**
+
+- **Fade** — animate character transparency.
+- **Scale** — control horizontal and vertical scale around each glyph’s center.
+- **Jump** — add curve-controlled vertical movement.
+- **Shake** — apply animated displacement.
+- **Offset** — control horizontal and vertical movement independently.
+- **Rotation** — rotate characters around their centers.
+- **Text Curve** — bend text along a custom curve.
+- **Scramble** — cycle through replacement characters while preserving rich-text tags.
+
+**Compose multi-step animations**
+
+Arrange and reorder steps, then play them sequentially or simultaneously. Configure delays, durations and animation curves, stagger characters from left to right or right to left, and loop individual animations or complete sequences.
+
+**Preview directly in the Editor**
+
+Test a single animation or a complete sequence in Edit Mode. Preview restores the original text geometry when the Inspector closes, helping you experiment safely while working on your scene.
+
+**Control playback from your game**
+
+Use Play On Awake for automatic playback or trigger animations through the runtime Play and Stop API. Configure finite or unlimited loops, hold the final pose during loop delays, and smoothly restore the original text after playback.
+
+**UI and 3D text support**
+
+Use the same animation system with TextMeshProUGUI and world-space TextMeshPro. Effects operate directly on TMP mesh data and work with Built-in, URP and HDRP projects.
+
+**Showcase and documentation included**
+
+Explore UI and 3D text examples covering staggered fades, scramble, waves, shake, rotation and curved text. A central four-step sequence demonstrates character entrance, wave motion, wobble and fly-away effects. Offline HTML and PDF documentation is included.14:T7de,- **Version** — 1.8.0.
+- **Minimum Unity version** — 2022.3.62f2.
+- **Verified Unity version** — Unity 6.3, 6000.3.27f1.
+- **Required packages** — Unity UI / TextMesh Pro. Import TMP Essential Resources in Unity 2022.3 before opening the showcase.
+- **Supported text components** — TextMeshProUGUI and 3D TextMeshPro.
+- **Render pipelines** — Built-in, URP and HDRP.
+- **Animation method** — Direct manipulation of generated TMP mesh data.
+- **Effects** — Fade, Scale, Jump, Shake, Offset, Rotation, Text Curve and Scramble.
+- **Playback modes** — Whole-text or staggered per-character animation, with left-to-right or right-to-left character order.
+- **Sequences** — Reorderable steps, sequential or simultaneous playback, and complete-sequence looping.
+- **Timing controls** — Duration, per-character duration, character delay, cycle delay, loop delay and loop count.
+- **Runtime controls** — Play, Stop, reset, playback state and duration queries.
+- **Editor tools** — Custom Inspectors and non-destructive previews for individual animations and sequences.
+- **Rich text** — TMP character-based timing. Scramble preserves rich-text tags and can preserve letter case.
+- **Scramble compatibility** — Scramble leaves emoji and other surrogate-pair characters unchanged. While Scramble is active, the Inspector disables Scale, Jump, Offset and Text Curve. Fade, Shake and Rotation remain available.
+- **Dynamic text** — Assign the final text before playback. Stop the animator before replacing text during an animation.
+- **Included sample** — An importable showcase scene with four UI examples, four world-space examples and a central four-step sequence.
+- **Documentation** — Offline HTML/PDF guide, changelog, licensing information and third-party notices.
+- **Dependencies** — No third-party tweening package required.
+- **Performance** — Processing cost depends on text length and active effects. The undeformed TMP mesh is rebuilt before effects are applied each frame.7:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Sequence TMP Animator\",\"description\":\"Animate TextMesh Pro UI and 3D text with eight configurable effects, character staggering and multi-step sequences. Includes looping, runtime controls and Edit Mode previews.\",\"image\":\"https://ks-assets.eterel.art/uploads/marketing-cover-1950x1300-1793930018754.png\",\"url\":\"https://ks-assets.eterel.art/asset/sequence-tmp-animator/\",\"category\":\"Unity Asset\",\"offers\":{\"@type\":\"Offer\",\"price\":\"14.50\",\"priceCurrency\":\"USD\",\"availability\":\"https://schema.org/PreOrder\"}}"}}],["$","$L12",null,{"asset":{"id":"sequence-tmp-animator","slug":"sequence-tmp-animator","title":"Sequence TMP Animator","shortDescription":"Animate TextMesh Pro UI and 3D text with eight configurable effects, character staggering and multi-step sequences. Includes looping, runtime controls and Edit Mode previews.","price":14.5,"comingSoon":true,"unityStoreUrl":"https://assetstore.unity.com/publishers/118131","primaryThumbnailUrl":"/uploads/marketing-cover-1950x1300-1793930018754.png","media":[{"id":"media-1793930026417","type":"youtube","url":"https://youtu.be/QLxTOOHEZGs","title":"preview video 1"},{"id":"media-1793930043801","type":"image","url":"/uploads/media-16x9-1920x1080-1793930043799.png","title":"preview image"},{"id":"media-1793930068783","type":"youtube","url":"https://youtu.be/GoWaWJPds18","title":"preview video 2"}],"specs":{"fileSize":"1.0 MB","latestVersion":"1.8.0","latestReleaseDate":"Nov 6, 2026","originalUnityVersion":"6000"},"targetAudience":["Animator","Tech-Animator","VFX Artist","Programmer"],"tags":["Tool","Text","TMP","Animation"],"description":"$13","technicalDetails":"$14","createdAt":"2026-11-06T01:55:09.448Z","updatedAt":"2026-11-06T02:00:09.375Z"}}]]
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+15:I[622,[],"IconMark"]
+b:{"metadata":[["$","title","0",{"children":"Sequence TMP Animator — Kindly Slime Assets"}],["$","meta","1",{"name":"description","content":"Animate TextMesh Pro UI and 3D text with eight configurable effects, character staggering and multi-step sequences. Includes looping, runtime controls and Edit Mode previews."}],["$","link","2",{"rel":"canonical","href":"https://ks-assets.eterel.art/asset/sequence-tmp-animator/"}],["$","meta","3",{"property":"og:title","content":"Sequence TMP Animator — Kindly Slime Assets"}],["$","meta","4",{"property":"og:description","content":"Animate TextMesh Pro UI and 3D text with eight configurable effects, character staggering and multi-step sequences. Includes looping, runtime controls and Edit Mode previews."}],["$","meta","5",{"property":"og:url","content":"https://ks-assets.eterel.art/asset/sequence-tmp-animator/"}],["$","meta","6",{"property":"og:image","content":"https://ks-assets.eterel.art/uploads/marketing-cover-1950x1300-1793930018754.png"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Kindly Slime Assets - Unity Asset Store Catalog & VFX Tools"}],["$","meta","10",{"name":"twitter:description","content":"Curated collection of game development tools, procedural animation systems, elemental VFX shaders, and retro screen filters for Unity creators."}],["$","meta","11",{"name":"twitter:image","content":"https://ks-assets.eterel.art/uploads/marketing-cover-1950x1300-1793930018754.png"}],["$","link","12",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","13",{"rel":"icon","href":"/uploads/favicon-1792960924806.png"}],["$","link","14",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"64x64"}],["$","link","15",{"rel":"apple-touch-icon","href":"/uploads/favicon-1792960924806.png"}],["$","$L15","16",{}]],"error":null,"digest":"$undefined"}
+10:"$b:metadata"
